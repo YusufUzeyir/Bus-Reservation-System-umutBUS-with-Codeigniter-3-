@@ -1,6 +1,6 @@
 # CodeIgniter 3
 
-![CodeIgniter Logo](https://codeigniter.com/assets/images/ci-logo-big.png)
+<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
 
 CodeIgniter, basit ve hızlı PHP uygulamaları geliştirmek için hafif bir framework'tür.
 
